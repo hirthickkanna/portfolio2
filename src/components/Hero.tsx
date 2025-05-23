@@ -57,7 +57,7 @@ const Hero: React.FC = () => {
                 <Linkedin size={24} />
               </a>
               <a 
-                href="hirthickkanna2005@gmail.com" 
+                href="mailto:hirthickkanna2005@gmail.com" 
                 className="p-2 text-slate-700 dark:text-slate-300 hover:text-primary-600 dark:hover:text-primary-400 transition-colors"
                 aria-label="Email"
               >
@@ -69,7 +69,7 @@ const Hero: React.FC = () => {
           <div className="w-full md:w-2/5 mt-8 md:mt-0 animate-fade-in">
             <div className="relative w-64 h-64 md:w-80 md:h-80 mx-auto rounded-full overflow-hidden border-4 border-white dark:border-slate-800 shadow-xl">
               <img 
-                src="src\image\WhatsApp Image 2025-05-23 at 21.17.12_b2a2b0d7.jpg" 
+                src="https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg" 
                 alt="hirthick kanna - Portfolio" 
                 className="w-full h-full object-cover"
               />
